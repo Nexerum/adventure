@@ -1,0 +1,9 @@
+p, h1, h2, label{
+	font-family: 'VT323', monospace;
+	font-size: 200%;
+	color: white;
+}
+
+body{
+	background-color: black;
+}
